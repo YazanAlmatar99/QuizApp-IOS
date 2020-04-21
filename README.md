@@ -6,4 +6,3 @@
 ### credits: https://www.yazanalmatar.com
 
 <img scr="https://github.com/YazanAlmatar99/QuizApp-IOS/blob/master/ScreenShot.png" width="350">
-![](https://github.com/YazanAlmatar99/QuizApp-IOS/blob/master/ScreenShot.png)
